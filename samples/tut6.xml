@@ -1,0 +1,6 @@
+
+<root id="123" name="root node">
+    <child1>text</child1>
+    <child2/>
+    <child1>another</child1>
+</root>
